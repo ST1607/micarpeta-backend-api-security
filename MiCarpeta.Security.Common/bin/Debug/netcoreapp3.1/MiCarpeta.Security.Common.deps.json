@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MiCarpeta.Security.Common/1.0.0": {
+        "runtime": {
+          "MiCarpeta.Security.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiCarpeta.Security.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

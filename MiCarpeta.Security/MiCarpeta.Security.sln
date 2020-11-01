@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCarpeta.Security.Presentation", "MiCarpeta.Security.Presentation.csproj", "{72B1131F-6A28-4B5A-9386-F82D0A2C7735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCarpeta.Security.Application", "..\MiCarpeta.Security.Application\MiCarpeta.Security.Application.csproj", "{B1A5BBC4-A14A-4BC9-B685-705068F02664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCarpeta.Security.Domain", "..\MiCarpeta.Security.Domain\MiCarpeta.Security.Domain.csproj", "{BC55F75E-5F61-4B8C-91AC-753718F0849F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCarpeta.Security.Domain.Entities", "..\MiCarpeta.Security.Domain.Entities\MiCarpeta.Security.Domain.Entities.csproj", "{16BDD37A-3EF0-45A5-91E6-7AB86C1D8FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCarpeta.Security.Repository", "..\MiCarpeta.Security.Repository\MiCarpeta.Security.Repository.csproj", "{B5A0D56B-1A91-4EBC-8C6A-576D7AB9080B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCarpeta.Security.Common", "..\MiCarpeta.Security.Common\MiCarpeta.Security.Common.csproj", "{1D427B42-801C-4E95-8605-E89D9645B7C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B1131F-6A28-4B5A-9386-F82D0A2C7735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B1131F-6A28-4B5A-9386-F82D0A2C7735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B1131F-6A28-4B5A-9386-F82D0A2C7735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B1131F-6A28-4B5A-9386-F82D0A2C7735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A5BBC4-A14A-4BC9-B685-705068F02664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A5BBC4-A14A-4BC9-B685-705068F02664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A5BBC4-A14A-4BC9-B685-705068F02664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A5BBC4-A14A-4BC9-B685-705068F02664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC55F75E-5F61-4B8C-91AC-753718F0849F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC55F75E-5F61-4B8C-91AC-753718F0849F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC55F75E-5F61-4B8C-91AC-753718F0849F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC55F75E-5F61-4B8C-91AC-753718F0849F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BDD37A-3EF0-45A5-91E6-7AB86C1D8FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BDD37A-3EF0-45A5-91E6-7AB86C1D8FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BDD37A-3EF0-45A5-91E6-7AB86C1D8FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BDD37A-3EF0-45A5-91E6-7AB86C1D8FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A0D56B-1A91-4EBC-8C6A-576D7AB9080B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A0D56B-1A91-4EBC-8C6A-576D7AB9080B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A0D56B-1A91-4EBC-8C6A-576D7AB9080B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A0D56B-1A91-4EBC-8C6A-576D7AB9080B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D427B42-801C-4E95-8605-E89D9645B7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D427B42-801C-4E95-8605-E89D9645B7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D427B42-801C-4E95-8605-E89D9645B7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D427B42-801C-4E95-8605-E89D9645B7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B15BD8-6327-48C3-87B6-2D248DC2DF9B}
+	EndGlobalSection
+EndGlobal

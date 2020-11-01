@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiCarpeta.Security.Common\MiCarpeta.Security.Common.csproj" />
+    <ProjectReference Include="..\MiCarpeta.Security.Domain\MiCarpeta.Security.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

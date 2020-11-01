@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZrk4gSO8hgTQT0cyBiTvdci07M9TKwtibQgwdZd/PTsyKmObamB4ZMNjsHWuDtFsO9hKoostYjZemJAQAIW5w==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johanna.montoya\\.nuget\\packages\\awssdk.core\\3.5.1.32\\awssdk.core.3.5.1.32.nupkg.sha512",
+    "C:\\Users\\johanna.montoya\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.1.10\\awssdk.dynamodbv2.3.5.1.10.nupkg.sha512",
+    "C:\\Users\\johanna.montoya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\johanna.montoya\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

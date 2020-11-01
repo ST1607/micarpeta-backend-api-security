@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiCarpeta.Security.Application\MiCarpeta.Security.Application.csproj" />
+    <ProjectReference Include="..\MiCarpeta.Security.Domain\MiCarpeta.Security.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>
