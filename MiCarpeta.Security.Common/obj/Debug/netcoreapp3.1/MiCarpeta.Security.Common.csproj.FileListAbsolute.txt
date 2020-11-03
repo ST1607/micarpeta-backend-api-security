@@ -7,3 +7,12 @@ C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backen
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.csproj.CoreCompileInputs.cache
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.dll
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Common.deps.json
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Common.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Common.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.AssemblyInfoInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.AssemblyInfo.cs
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.csproj.CoreCompileInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Common\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Common.csprojAssemblyReference.cache
