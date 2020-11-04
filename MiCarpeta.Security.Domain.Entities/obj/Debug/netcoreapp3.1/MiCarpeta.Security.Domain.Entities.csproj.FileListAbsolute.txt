@@ -15,4 +15,3 @@ D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCa
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.csproj.CoreCompileInputs.cache
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.dll
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.pdb
-D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.csprojAssemblyReference.cache

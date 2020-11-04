@@ -77,6 +77,8 @@ D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCa
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.csprojAssemblyReference.cache
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.AssemblyInfoInputs.cache
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.AssemblyInfo.cs
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.csproj.CoreCompileInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.MvcApplicationPartsAssemblyInfo.cache
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.RazorTargetAssemblyInfo.cache
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.csproj.CopyComplete
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\staticwebassets\MiCarpeta.Security.Presentation.StaticWebAssets.Manifest.cache
@@ -84,5 +86,3 @@ D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCa
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.dll
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.pdb
 D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.genruntimeconfig.cache
-D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.csproj.CoreCompileInputs.cache
-D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Presentation.MvcApplicationPartsAssemblyInfo.cache
