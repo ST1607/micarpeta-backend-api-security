@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FE2JdBAfvR7c9nkSzTkFT9ZcJoMdW/2uE3r3yDoaru51ExvdOOF0E+Bi0hyMyZ9X/FvCIzA5AY75qNf17N7tPQ==",
+  "dgSpecHash": "QujNH9PuCCyFnMD0Y/ztR7GbQ/NT20dmSGkg//Z/XVTsO+6hMeJCdG6wdXGMAgt5RFghJ4Vx23PLfUfN/WNAkA==",
   "success": true,
-  "projectFilePath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj",
+  "projectFilePath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

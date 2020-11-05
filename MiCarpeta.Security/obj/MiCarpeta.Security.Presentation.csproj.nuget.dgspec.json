@@ -1,42 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj": {}
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj": {}
   },
   "projects": {
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj": {
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj",
+        "projectUniqueName": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj",
         "projectName": "MiCarpeta.Security.Application",
-        "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj",
-        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\obj\\",
+        "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj",
+        "packagesPath": "C:\\Users\\johanna.montoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\johanna.montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj"
               },
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj"
               }
             }
           }
@@ -70,33 +69,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj": {
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj",
+        "projectUniqueName": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj",
         "projectName": "MiCarpeta.Security.Common",
-        "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj",
-        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\obj\\",
+        "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj",
+        "packagesPath": "C:\\Users\\johanna.montoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\johanna.montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -127,33 +125,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj": {
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj",
+        "projectUniqueName": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj",
         "projectName": "MiCarpeta.Security.Domain.Entities",
-        "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj",
-        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\obj\\",
+        "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\johanna.montoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\johanna.montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -184,43 +181,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj": {
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj",
+        "projectUniqueName": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj",
         "projectName": "MiCarpeta.Security.Domain",
-        "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj",
-        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\obj\\",
+        "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj",
+        "packagesPath": "C:\\Users\\johanna.montoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\johanna.montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj"
               },
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj"
               }
             }
           }
@@ -266,43 +262,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj": {
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj",
+        "projectUniqueName": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj",
         "projectName": "MiCarpeta.Security.Repository",
-        "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj",
-        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\obj\\",
+        "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\MiCarpeta.Security.Repository.csproj",
+        "packagesPath": "C:\\Users\\johanna.montoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\johanna.montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Common\\MiCarpeta.Security.Common.csproj"
               },
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain.Entities\\MiCarpeta.Security.Domain.Entities.csproj"
               }
             }
           }
@@ -340,43 +335,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj": {
+    "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj",
+        "projectUniqueName": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj",
         "projectName": "MiCarpeta.Security.Presentation",
-        "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj",
-        "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security\\obj\\",
+        "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security\\MiCarpeta.Security.Presentation.csproj",
+        "packagesPath": "C:\\Users\\johanna.montoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\johanna.montoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-3-89-115-221.compute-1.amazonaws.com/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Application\\MiCarpeta.Security.Application.csproj"
               },
-              "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj": {
-                "projectPath": "D:\\German\\Development\\EAFIT\\CarpetaCiudadana\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj"
+              "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj": {
+                "projectPath": "C:\\Personal\\EAFIT\\Arquitecturas avanzadas de software\\MiCarpeta\\micarpeta-backend-api-security\\MiCarpeta.Security.Domain\\MiCarpeta.Security.Domain.csproj"
               }
             }
           }
@@ -417,7 +411,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
