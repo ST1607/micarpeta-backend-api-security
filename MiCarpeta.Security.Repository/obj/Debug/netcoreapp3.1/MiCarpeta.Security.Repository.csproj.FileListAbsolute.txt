@@ -12,3 +12,17 @@ C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backen
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.csproj.CopyComplete
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.dll
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.deps.json
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Common.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Common.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.csprojAssemblyReference.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.AssemblyInfoInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.AssemblyInfo.cs
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.csproj.CoreCompileInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.csproj.CopyComplete
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Repository\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Repository.pdb

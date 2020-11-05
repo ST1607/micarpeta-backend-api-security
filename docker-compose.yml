@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  micarpeta.security.presentation:
+    image: ${DOCKER_REGISTRY-}micarpetasecuritypresentation
+    build:
+      context: .
+      dockerfile: MiCarpeta.Security/Dockerfile    
+    ports:
+        - "5100:80"
+        - "5101:443"

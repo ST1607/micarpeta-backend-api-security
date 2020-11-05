@@ -7,3 +7,11 @@ C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backen
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.csproj.CoreCompileInputs.cache
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.dll
 C:\Personal\EAFIT\Arquitecturas avanzadas de software\MiCarpeta\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.deps.json
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\bin\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.pdb
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.AssemblyInfoInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.AssemblyInfo.cs
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.dll
+D:\German\Development\EAFIT\CarpetaCiudadana\micarpeta-backend-api-security\MiCarpeta.Security.Domain.Entities\obj\Debug\netcoreapp3.1\MiCarpeta.Security.Domain.Entities.pdb
