@@ -73,6 +73,7 @@ namespace MiCarpeta.Security
             app.UseAuthentication();
 
             app.UseHttpsRedirection();
+            app.UseHsts();
 
             app.UseRouting();
 
